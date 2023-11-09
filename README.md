@@ -7,7 +7,7 @@
 🔭 Estudante da área da programação retomando o Git, partindo da área do front-end para o fullstack. Tenho uma paixão profunda por programação e tecnologia, e estou sempre buscando maneiras de aplicar minhas habilidades para resolver problemas, e a dominação mundial(brinks).
 
 
-💬 Estou sempre procurando aprender e crescer, e estou particularmente interessado e estudando JavaScript e NodeJS. Adoro a ideia de usar a tecnologia para fazer a diferença, e estou sempre em busca de oportunidades que me permitam fazer exatamente isso.
+💬 Estou sempre procurando aprender e crescer, e estou particularmente interessado e estudando JavaScript, NodeJS e TypeScript. Adoro a ideia de usar a tecnologia para fazer a diferença, e estou sempre em busca de oportunidades que me permitam fazer exatamente isso.
 
 ❌ Java.
 
