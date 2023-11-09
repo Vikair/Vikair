@@ -24,4 +24,4 @@
 
 ---
 
-
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=highcontrast)](https://github.com/vikair/github-readme-stats)
